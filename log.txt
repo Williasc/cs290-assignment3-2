@@ -1,3 +1,11 @@
-Start: Sat, 25 Apr 2015 12:30:07 -0700
-End: Sat, 25 Apr 2015 
-Tasks: Not done.
+Start: Sat, 25 Apr 2015 10:30:07 -0700
+End: Sat, 25 Apr 2015 15:17:25 -0700
+Tasks: Struggling with understanding how an XMLHttpRequest actually works and what im even trying to do
+
+Start: Sat, 25 Apr 2015 16:05:28 -0700
+End: Sat, 25 Apr 2015 17:55:25 -0700
+Tasks: Got the XMLHttpRequest to actually give me the Status Code 200, but I still have no idea what I'm doing.
+
+Start: Sat, 25 Apr 2015 18:13:01 -0700
+End: Sat, 25 Apr 2015 22:35:40 -0700
+Tasks: Got a lot more understanding of the project, but still not getting the favorites list completely working.

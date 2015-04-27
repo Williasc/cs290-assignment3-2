@@ -4,10 +4,32 @@
 	<meta charset="utf-8">
 	<title>Favorite Gists</title>
 	<script src="Assignment3-2.js"></script>
+	<div id="Search">
+		<input type="button" value="Search Gists" onclick="fetchGists()";
+	</div>
 </head>
 <body>
 	<div id="Gists"></div>
-	<section>
-		This is the list of gists
+	<section style = "float:left">
+		<h1>GISTS</h1>
+		<div style="background-color:lightgrey">
+			This will be populated by the search
+		</div>
+		<section>
+		<ul id="gist-list">
+		</ul>
+		</section>
+	</section>
+	<div id="Favorite Gists"></div>
+	<section style = "float:right">
+		<h2>Favorite GISTS</h2>
+		<div style="background-color:lightgrey">
+			This will be populated by the favorites
+		</div>
+		<section>
+		<ul id="fgist-list">
+		</ul>
+		</section>
+	</section>
 </body>
 </html>

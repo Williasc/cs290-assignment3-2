@@ -3,9 +3,17 @@ End: Sat, 25 Apr 2015 15:17:25 -0700
 Tasks: Struggling with understanding how an XMLHttpRequest actually works and what im even trying to do
 
 Start: Sat, 25 Apr 2015 16:05:28 -0700
-End: Sat, 25 Apr 2015 17:55:25 -0700
+End: Sat, 25 Apr 2015 17:55:13 -0700
 Tasks: Got the XMLHttpRequest to actually give me the Status Code 200, but I still have no idea what I'm doing.
 
 Start: Sat, 25 Apr 2015 18:13:01 -0700
 End: Sat, 25 Apr 2015 22:35:40 -0700
 Tasks: Got a lot more understanding of the project, but still not getting the favorites list completely working.
+
+Start: Sun, 26 Apr 2015 9:23:57 -0700
+End: Sun, 26 Apr 2015 11:38:20 -0700
+Tasks: Worked on understanding how to turn the URL information into a href in html from javascript
+
+Start: Sun, 26 Apr 2015 19:10:38 -0700
+End: Sun, 26 Apr 2015 20:56:49 -0700
+Tasks: Worked on understanding how to turn the URL information into a href in html from javascript
